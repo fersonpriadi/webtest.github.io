@@ -11,7 +11,7 @@
         <h1>WEB Test</h1>
         <nav>
             <ul>
-                <li><a href="kuliah.html">Jadwal Kuliah</a></li>
+                <li><a href="kuliah.php">Jadwal Kuliah</a></li>
                 <li><a href="#charts">Grafik</a></li>
                 <li><a href="#message">Pesan</a></li>
                 <li><a href="#">Pengaturan</a></li>
@@ -20,7 +20,7 @@
     </header>
 
     <main>
-        <section id="jadwal-kuliah">
+        <section id="">
             <h2>INGET</h2>
            
             <!-- Tambahkan konten ringkasan di sini -->
